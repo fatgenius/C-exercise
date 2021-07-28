@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/du/C++/system_build/my_second_libray/tools.cpp
+tools.hpp
+/home/du/C++/system_build/my_second_libray/tools.hpp
+iostream
+-
+
+/home/du/C++/system_build/my_second_libray/tools.hpp
+

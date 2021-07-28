@@ -1,0 +1,4 @@
+/home/du/C++/system_build/my_second_libray/build/CMakeFiles/rebuild_cache.dir
+/home/du/C++/system_build/my_second_libray/build/CMakeFiles/tools.dir
+/home/du/C++/system_build/my_second_libray/build/CMakeFiles/edit_cache.dir
+/home/du/C++/system_build/my_second_libray/build/CMakeFiles/main.dir

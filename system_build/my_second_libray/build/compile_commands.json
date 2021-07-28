@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/du/C++/system_build/my_second_libray/build",
+  "command": "/usr/bin/c++      -std=gnu++14 -o CMakeFiles/tools.dir/tools.cpp.o -c /home/du/C++/system_build/my_second_libray/tools.cpp",
+  "file": "/home/du/C++/system_build/my_second_libray/tools.cpp"
+},
+{
+  "directory": "/home/du/C++/system_build/my_second_libray/build",
+  "command": "/usr/bin/c++      -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /home/du/C++/system_build/my_second_libray/main.cpp",
+  "file": "/home/du/C++/system_build/my_second_libray/main.cpp"
+}
+]
