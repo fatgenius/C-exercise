@@ -2,7 +2,7 @@
  * some  basic C++ code to introduce the C++
  * in C++ we could use enum to do lots of shits
  * to improve our debugging  compare with c c++ is cool
-
+***********************************/
 
 
 
