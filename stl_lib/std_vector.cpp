@@ -3,6 +3,7 @@
  *  to add new element in vector the emplace_back is faster
  *  used add new elelment is push_back is work but is relavently slow
  *  to remove all the vector elements we use clear()
+ *  std::vector size is unknow
  *********************************************/
 
 #include <iostream>
