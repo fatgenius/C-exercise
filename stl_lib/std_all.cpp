@@ -37,7 +37,13 @@ int main(){
 
     //acumulate
 
-   
+
+    //std mini_element()
+    auto result = std::min_element(vec.begin(),vec.end());
+    //cout<<"the mini element is： "<<result<<endl;
+    auto mini_element = std::distance(vec.begin(),result);
+    cout<<"the mini element location is at "<<mini_element<<endl;
+    
 
 
     
