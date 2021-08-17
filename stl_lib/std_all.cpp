@@ -40,10 +40,19 @@ int main(){
 
     //std mini_element()
     auto result = std::min_element(vec.begin(),vec.end());
-    //cout<<"the mini element is： "<<result<<endl;
     auto mini_element = std::distance(vec.begin(),result);
     cout<<"the mini element location is at "<<mini_element<<endl;
-    
+
+
+    //std mini & max elements
+    using std::minmax_element;
+    auto v = {1,2,3,4,5,3,3,33333,22222,4444,1111,33333,44444,223,4444};
+    //this is c++17 g++ -std=c++17 -g 
+    auto [min ,max] =minmax_element(v.begin(),v.end());
+    cout<<"mini is"<<min<<endl;
+    cout<<"max is "<<max<<endl;
+
+
 
 
     
