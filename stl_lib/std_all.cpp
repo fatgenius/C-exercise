@@ -50,7 +50,8 @@ int main(){
     //this is c++17 g++ -std=c++17 -g 
     auto [min ,max] =minmax_element(v.begin(),v.end());
     cout<<"mini is"<<min<<endl;
-    cout<<"max is "<<max<<endl;
+    // this is address
+    cout<<"max is "<<*max<<endl;
 
 
 
